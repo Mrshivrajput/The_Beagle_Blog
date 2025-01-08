@@ -1,0 +1,32 @@
+img{
+    height:198px;
+    width: 300px;
+    animation: fadein 2s;
+    hovoer: 1s;
+    background-color: aquamarine;
+    
+}
+.header{
+    text-align: left;
+    border: solid 1px;
+
+}
+.h1{
+    text-decoration: underline;
+}
+h1,p,a{
+    padding: 10px;
+    margin: 5px;
+
+    
+}
+.Readmore1,.Readmore2{ padding: 10px;
+    margin: 5px;
+    background-color: #f1f1f1;
+    border: solid 1px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    cursor: pointer;
+}
